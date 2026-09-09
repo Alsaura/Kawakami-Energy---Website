@@ -9,8 +9,6 @@ Beranda, katalog enam produk, enam halaman detail, Tentang Kami, Kontak, FAQ, ke
 Dua jalur: pembeli dan pemasok. Formulir menyusun ringkasan lokal yang ditinjau pengguna. Pengguna kemudian membuka WhatsApp atau email dan mengirim sendiri. Tidak ada penyimpanan data calon pelanggan atau pengiriman otomatis. Kontak diambil dari desain acuan, bukan hasil verifikasi kepemilikan.
 
 ## Informasi yang perlu pemilik konfirmasi sebelum publikasi umum
-- Nama badan usaha dan hubungan alamat email info@bioenergy.id dengan Kawakami.
-- Nomor WhatsApp 0812-7173-3304, alamat kantor lengkap termasuk unit, dan jam kerja.
 - Ketersediaan enam material, kapasitas pasokan, minimum pesanan, lokasi sumber dan wilayah pengiriman.
 - Hasil uji, spesifikasi tiap produk, COA, dokumen asal bahan, dan proses sampel.
 - Alur evaluasi, ketentuan pembayaran, pengiriman, dan penanganan ketidaksesuaian.
