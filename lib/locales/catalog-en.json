@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "slug": "cangkang-sawit",
+      "name": "Palm Kernel Shell",
+      "english": "Cangkang Kelapa Sawit",
+      "category": "Plantation residues",
+      "description": "An oil palm by-product with potential as biomass fuel for industry.",
+      "detail": "Shells separated during oil palm processing can be used as feedstock for biomass energy. Selecting suitable quality and ensuring compatibility with the combustion system are important parts of procurement.",
+      "uses": ["Biomass boilers", "Industrial heat requirements", "Co-firing where specifications are met"],
+      "checks": ["Shell size and size distribution", "Fibre and foreign material content", "Moisture, ash, and calorific value"],
+      "credit": "Sunday U. Azunna · CC BY 4.0"
+    },
+    {
+      "slug": "serpihan-kayu",
+      "name": "Wood Chips",
+      "english": "Serpihan Kayu",
+      "category": "Woody biomass",
+      "description": "Wood chips for energy use, sized to suit industrial systems.",
+      "detail": "Wood chips are pieces of wood cut to a specified size. Their source, cleanliness, and chip size should be checked to ensure they meet the requirements of the facility using them.",
+      "uses": ["Wood-fired boilers", "Industrial heating systems", "Feedstock for biomass processing"],
+      "checks": ["Chip size and uniformity", "Wood type and source", "Moisture and foreign material content"],
+      "credit": "Yinan Chen · Public domain"
+    },
+    {
+      "slug": "pelet-kayu",
+      "name": "Wood Pellets",
+      "english": "Pelet Kayu",
+      "category": "Woody biomass",
+      "description": "Woody biomass compressed into pellets for convenient handling.",
+      "detail": "Pellets are made by compressing wood material into cylinders. Pellet strength, fines content, and combustion characteristics should suit the equipment in which they will be used.",
+      "uses": ["Pellet heating systems", "Compatible industrial boilers", "Packaged fuel supply"],
+      "checks": ["Pellet diameter and length", "Density, durability, and fines content", "Moisture, ash, and calorific value"],
+      "credit": "Tom Bruton · Public domain"
+    },
+    {
+      "slug": "serbuk-gergaji",
+      "name": "Sawdust",
+      "english": "Serbuk Gergaji",
+      "category": "Woody biomass",
+      "description": "Wood processing residue that can be reprocessed into useful feedstock.",
+      "detail": "Sawdust comes from wood processing. Particle size, moisture content, and material cleanliness are important considerations before it is used in production or energy systems.",
+      "uses": ["Feedstock for pellets and briquettes", "Further biomass processing", "Compatible energy systems"],
+      "checks": ["Particle fineness", "Wood source and material cleanliness", "Moisture and ash content"],
+      "credit": "Noslenlou · CC BY-SA 4.0"
+    },
+    {
+      "slug": "sekam-padi",
+      "name": "Rice Husks",
+      "english": "Sekam Padi",
+      "category": "Agricultural residues",
+      "description": "Creating new value from a rice milling by-product for industrial use.",
+      "detail": "Rice husks are the protective outer layers of rice grains, separated during milling. Their ash characteristics and density should be considered when choosing storage and combustion systems.",
+      "uses": ["Boilers designed for rice husks", "Feedstock for briquettes", "Agricultural by-product processing"],
+      "checks": ["Cleanliness and foreign material content", "Moisture content and bulk density", "Ash characteristics and calorific value"],
+      "credit": "GST HBK · Public domain"
+    },
+    {
+      "slug": "cangkang-kelapa",
+      "name": "Coconut Shells",
+      "english": "Cangkang Kelapa",
+      "category": "Plantation residues",
+      "description": "Coconut shells for biomass use and as feedstock for further processing.",
+      "detail": "Coconut shells can be used as feedstock for energy or charcoal production. Cleanliness, fragment size, and moisture content should be agreed upon before procurement.",
+      "uses": ["Feedstock for charcoal", "Feedstock for activated carbon production", "Thermal energy requirements"],
+      "checks": ["Fragment size and shape", "Residual husk, flesh, and contaminants", "Moisture, ash, and calorific value"],
+      "credit": "HannoSEA · CC BY-SA 4.0"
+    }
+  ],
+  "faqs": [
+    [
+      "How do I request a quote?",
+      "Select a product and provide your requirements on the Contact page. Include the volume, destination, schedule, and required specifications. You can review the summary before sending it via WhatsApp or email."
+    ],
+    [
+      "Are test results and product samples available?",
+      "The availability of laboratory test results (COA), specification sheets, and samples must be confirmed for the selected product and supply source. Share your documentation and testing requirements at the start of the discussion."
+    ],
+    [
+      "What are the minimum order quantity and delivery lead time?",
+      "The minimum order quantity, available capacity, packaging options, and delivery lead time depend on the product, supply location, and destination. The team will discuss these in a quote tailored to your requirements."
+    ],
+    [
+      "How do I become a supply partner?",
+      "Select the “Offer supply” option on the Contact page. Prepare details of your product type, stock location, regular supply capacity, specifications, and material documentation for discussion and evaluation."
+    ],
+    [
+      "How are pricing and payment terms determined?",
+      "Pricing is discussed based on specifications, volume, location, packaging, and logistics requirements. Payment and delivery terms are agreed upon in a written quote or contract."
+    ],
+    [
+      "What if the goods do not meet the specifications?",
+      "Quality criteria, inspection methods, tolerances, and the handling of non-conforming goods should be agreed upon before ordering. Report any differences to the team with supporting documentation and inspection results."
+    ]
+  ]
+}

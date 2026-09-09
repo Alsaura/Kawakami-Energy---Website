@@ -1,0 +1,57 @@
+KAWAKAMI GLOBAL ENERGY — PAKET WEBSITE
+
+Paket ini berisi kode website lengkap, logo terbaru, foto produk,
+animasi, halaman perusahaan, formulir pembeli/pemasok, dan kredit visual.
+
+CARA MENJALANKAN
+1. Ekstrak ZIP ini.
+2. Pasang Node.js versi 22.13.0 atau lebih baru.
+3. Buka Terminal di folder kawakami-website.
+4. Jalankan: npm ci
+5. Jalankan: npm run dev
+6. Buka alamat lokal yang ditampilkan Terminal di browser.
+
+Internet diperlukan saat memasang dependensi. Folder node_modules
+akan dibuat secara otomatis oleh npm ci.
+Website ini adalah proyek React/Vinext, bukan file HTML yang dapat
+dijalankan dengan klik dua kali.
+
+UNTUK DEVELOPER
+- npm run build: membuat versi produksi.
+- Hosting memerlukan runtime yang kompatibel dengan Cloudflare Workers.
+- Sertakan folder tersembunyi .openai; konfigurasi proyek memerlukannya.
+- Paket tidak berisi kata sandi, token akses, atau kredensial penerbitan.
+- Riwayat Git, dependensi terpasang, dan cache tidak disertakan.
+- Kode lengkap dan package-lock.json disertakan.
+
+ISI WEBSITE
+- Beranda dengan animasi dan logo lengkap Kawakami.
+- Katalog enam produk dan halaman detail masing-masing.
+- Tentang Kami, visi, misi, nilai, dan peta orientasi wilayah.
+- Jalur pembeli dan pemasok, formulir, serta peninjauan pesan.
+- FAQ, kebijakan privasi, ketentuan penggunaan, dan kredit visual.
+- Ringkasan perusahaan/produk yang dapat diunduh.
+
+CARA FORMULIR BEKERJA
+Formulir menyusun pesan untuk ditinjau pengguna. Pengguna kemudian
+membuka WhatsApp atau email dan mengirim sendiri. Tidak ada pengiriman
+otomatis ataupun database untuk menyimpan calon pelanggan.
+
+SEBELUM PUBLIKASI UMUM
+Konfirmasi kontak, alamat, jam operasional, data pasokan, dan materi
+perusahaan dalam README.md. Kontak saat ini mengikuti desain acuan.
+Angka kapasitas, sertifikasi, dan spesifikasi teknis tidak direka.
+Foto katalog merupakan ilustrasi bahan; sumbernya ada pada halaman
+Kredit Visual. Visual lanskap adalah ilustrasi AI, bukan fasilitas
+perusahaan yang telah beroperasi.
+
+DUA PILIHAN BAHASA
+- Bahasa Indonesia: buka alamat utama website.
+- English: tambahkan /en pada alamat website, atau gunakan sakelar geser ID / EN.
+- Pilihan bahasa mencakup halaman perusahaan, enam produk, FAQ, formulir,
+  pesan WhatsApp/email, halaman kebijakan, dan profil yang diunduh.
+- Saat berpindah bahasa, halaman serta pilihan produk/jalur tetap terjaga.
+  Draf formulir bertahan dalam memori selama navigasi dan hilang saat
+  halaman dimuat ulang atau tab ditutup.
+- Desain terbaru dan parallax beranda sudah disertakan.
+- Pengujian bahasa tersedia melalui npm test.
